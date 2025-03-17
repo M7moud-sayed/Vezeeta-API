@@ -165,3 +165,4 @@ E:\itp 4 months\Project\VezeetaAPI\VezeetaAPI\bin\Release\net9.0\ru\Microsoft.Co
 E:\itp 4 months\Project\VezeetaAPI\VezeetaAPI\bin\Release\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 E:\itp 4 months\Project\VezeetaAPI\VezeetaAPI\bin\Release\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 E:\itp 4 months\Project\VezeetaAPI\VezeetaAPI\bin\Release\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\itp 4 months\Project\VezeetaAPI\VezeetaAPI\obj\Release\net9.0\VezeetaAPI.sourcelink.json
