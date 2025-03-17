@@ -1,0 +1,6 @@
+@VezeetaAPI_HostAddress = http://localhost:5267
+
+GET {{VezeetaAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
