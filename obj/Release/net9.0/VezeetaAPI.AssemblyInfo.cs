@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VezeetaAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5afc714c690914c1f18527ac2be65b13f0508621")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84a4ee9d200a6ecc71850a537a3440b8e3591235")]
 [assembly: System.Reflection.AssemblyProductAttribute("VezeetaAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VezeetaAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
