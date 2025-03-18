@@ -12,6 +12,8 @@ RUN dotnet restore "./VezeetaAPI.csproj"
 
 COPY . .
 RUN dotnet publish -c Release -o /app/publish
+COPY images /app/images
+
 
 # إنشاء المرحلة النهائية
 FROM base AS final
